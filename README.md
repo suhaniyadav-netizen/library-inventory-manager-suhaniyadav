@@ -4,7 +4,8 @@
 
 A simple command-line application to manage a campus library's book catalog. Built with Python using Object-Oriented Programming principles.
 
- ![alt text](<Screenshot 2025-11-22 182148.png>)
+<img width="482" height="236" alt="Screenshot 2025-11-22 182148" src="https://github.com/user-attachments/assets/216aa1c3-b10a-4228-b6b7-84bdb7036f69" />
+
 
 ---
 
